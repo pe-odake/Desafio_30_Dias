@@ -8,15 +8,6 @@ Este repositório documenta meu desafio pessoal de criar **um projeto por dia du
 - **Documentar** o processo de criação para referência futura.
 - **Expandir** meu portfólio com projetos variados.
 
-## Estrutura do Desafio
-Cada dia trará um novo projeto com os seguintes critérios:
-1. **Duração:** O projeto deve ser concluído em um dia (com foco no MVP - Produto Mínimo Viável).
-2. **Temática:** Variada (ex.: aplicações web, scripts, jogos, design, etc.).
-3. **Documentação:** Cada projeto inclui um README explicando:
-   - Objetivo do projeto
-   - Tecnologias usadas
-   - Instruções de uso
-
 ## Tecnologias que Pretendo Usar
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js
